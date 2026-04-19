@@ -1,6 +1,6 @@
-readme_content = """# vim-yankref
+# vim-yankref
 
-A minimal, unintrusive Vim plugin that extracts your current filename and selected line numbers, formats them as a reference string, and writes them directly to your system clipboard.
+A minimal, unintrusive Vim plugin that extracts your current filename and selected line numbers, formats them as a reference string, and writes them directly to your system clipboard. Handy when using with cli based code assistants for referencing parts of the files.
 
 ## Features
 
